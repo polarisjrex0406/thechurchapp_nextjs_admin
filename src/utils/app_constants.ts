@@ -6,7 +6,7 @@ export const BASE_URL_PROD = 'https://us-central1-avivamiento-6351c.cloudfunctio
 export const APP_NAME = 'Avivamiento';
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyDVASvOtnWRVCoy4TzchKpW1w1yfJezB90",
+    apiKey: "",
     authDomain: "avivamiento-6351c.firebaseapp.com",
     projectId: "avivamiento-6351c",
     storageBucket: "avivamiento-6351c.appspot.com",
